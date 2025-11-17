@@ -7,6 +7,14 @@ Shopmart is designed as a front-end–only project that replicates the look and 
 
 ## 📌 Features
 
+### live link
+Use the link below to access a live version of the website
+```bash
+https://briansila.github.io/shopmart/
+```
+
+---
+
 ### ⭐ Core Features
 - **Responsive Homepage:** Hero section, featured products, and promotional banners  
 - **Product Listings:** Organized by category with image, title, price, and add-to-cart options  
