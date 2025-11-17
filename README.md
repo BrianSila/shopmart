@@ -1,4 +1,4 @@
-# 🛒 Shopmart – Supermarket Website Clone
+# 🛒 Shopmart – Supermarket Website 
 
 A fully responsive, modern supermarket website clone built using **HTML**, **CSS**, and **JavaScript**.  
 Shopmart is designed as a front-end–only project that replicates the look and feel of a real e-commerce grocery website, including product listings, categories, search functionality, a cart system, and interactive UI components.
